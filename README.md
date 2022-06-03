@@ -1,7 +1,7 @@
 # Welcome and Përshendetje! 🥖
 
 ## About Me
-Hello, my name is [**Alken Rrokaj**](http://linkedin.com/in/rrokaj/), and I am passionate about: 
+Hello, my name is [**Alken Rrokaj**](http://linkedin.com/in/rrokaj/), here is what I am passionate about: 
 
 👨🏼‍💻  B.Sc. Electronics Engineering - KU Leuven, Belgium  <br/>
 📈  Business, Innovation and Entrepreneurship <br/>
