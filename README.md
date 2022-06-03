@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome and Përshendetje! 🥖
 
-<!--
-**alken01/alken01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/rrokaj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-Here are some ideas to get you started:
+## About Me
+My name is *Alken Rrokaj*, and I am passionate about: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏼‍💻  B.Sc. Electronics Engineering - KU Leuven, Belgium  <br/>
+📈  Business, Innovation and Entrepreneurship <br/>
+🛰  Space<br/>
+♻️   Cicular Economy  <br/>
+🥖  Getting The Bread!  <br/>
+
+## Stats That I Am Working On ;) 
+### Working on them! 
+
+![](https://github-readme-stats.vercel.app/api?username=alken01&show_icons=true&theme=dracula&count_private=true&hide_title=false&hide_border=true) 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alken01&hide=html&theme=dracula&layout=compact&hide_border=true)
