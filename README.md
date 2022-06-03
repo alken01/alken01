@@ -11,8 +11,8 @@ My name is *Alken Rrokaj*, and I am passionate about:
 ♻️   Cicular Economy  <br/>
 🥖  Getting The Bread!  <br/>
 
-## Stats That I Am Working On ;) 
-### Working on them! 
+## Stats
+### Working on them!;)
 
 ![](https://github-readme-stats.vercel.app/api?username=alken01&show_icons=true&theme=dracula&count_private=true&hide_title=false&hide_border=true) 
 
